@@ -1,2 +1,2 @@
 def hello_again():
-    print('hello again')
+    return 'hello again!'
